@@ -1,6 +1,7 @@
 # Weather-Prediction-through-Time-Series-Forecasting-ARIMA-vs.-STL-Approach
 This repository contains code and data for comparing the performance of ARIMA and STL models in weather prediction through time series forecasting.
-Repository Contents
+
+# Repository Contents
 New Arima Vs Stl.ipynb: Jupyter Notebook containing the main analysis comparing ARIMA and STL models.
 Seattle.ipynb: Jupyter Notebook with additional analysis for Seattle weather data.
 nagpur.csv: Dataset containing weather data for Nagpur.
